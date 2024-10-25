@@ -40,7 +40,7 @@ def player_misses_ball(ball: Ball, score_board: ScoreBoard):
 
 
 def main():
-    """ Main method for the snake game.  """
+    """ Main method for the Pong game.  """
     game_is_on = True
     screen = PongScreen()
     # Create right and left paddle
